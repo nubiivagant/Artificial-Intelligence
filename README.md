@@ -1,2 +1,4 @@
-#Artificial Intelligence
-##Nupur Kirwai, Section B
+# Artificial Intelligence Algorithms
+## Nupur Kirwai, Section B
+
+
