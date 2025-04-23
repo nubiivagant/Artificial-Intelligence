@@ -14,10 +14,9 @@ It uses modern machine learning algorithms trained on curated datasets to achiev
 ## 🛠️ Features
 
 - Text Preprocessing (tokenization, lemmatization, stopwords removal)
-- Deep Learning / Machine Learning Model
-- Web Application (Flask/Streamlit)
-- Model Evaluation Metrics (Accuracy, Precision, Recall, F1 Score, ROC-AUC)
-- Explainability integration (Optional)
+- Deep Learning / Machine Learning Model (Naive Bayes model, RandomForest Claasifier)
+- Model Evaluation Metrics (Accuracy, Precision, Recall, F1 Score)
+- Algorithms (TF-IDF vectorization, Feature Extraction, Sentiment Analysis using VADER)
 
 ---
 
